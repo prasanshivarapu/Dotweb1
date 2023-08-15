@@ -1,0 +1,23 @@
+.type {
+    width: 25%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+  
+  .but1 {
+    height: 50px;
+    width: 280px;
+    margin-left: 10px;
+    text-align: left;
+    font-size: larger;
+    font-weight: bolder;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .but1:hover {
+    background-color: rgb(138, 138, 243);
+  }
+  
